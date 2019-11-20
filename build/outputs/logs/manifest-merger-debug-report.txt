@@ -1,0 +1,438 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Fratoi\git\RedReaderIDL\src\main\AndroidManifest.xml:19:1-160:12
+INJECTED from C:\Users\Fratoi\git\RedReaderIDL\src\main\AndroidManifest.xml:19:1-160:12
+INJECTED from C:\Users\Fratoi\git\RedReaderIDL\src\main\AndroidManifest.xml:19:1-160:12
+INJECTED from C:\Users\Fratoi\git\RedReaderIDL\src\main\AndroidManifest.xml:19:1-160:12
+MERGED from [com.android.support:design:28.0.0] C:\Users\Fratoi\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\a47759a973b125ee15297b7d79268839\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Fratoi\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\a952751cbdb80ce5d84048d535bb32ff\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\Fratoi\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0.aar\59c66d662bdbad86f9ccfea36b634df3\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.exoplayer:exoplayer-ui:2.9.1] C:\Users\Fratoi\.gradle\caches\transforms-1\files-1.1\exoplayer-ui-2.9.1.aar\011e4ae39629b57f61f57d9d191eef38\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\Fratoi\.gradle\caches\transforms-1\files-1.1\support-media-compat-28.0.0.aar\4cfdb0b137c49c876cda17ca2e423a60\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.9.1] C:\Users\Fratoi\.gradle\caches\transforms-1\files-1.1\exoplayer-core-2.9.1.aar\2ff6c28f60d3fd8e5fda2a8da6bfa299\AndroidManifest.xml:17:1-26:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Fratoi\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\59e8619332231b54539d88d54543abd4\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Fratoi\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\997697c3c2784dabf4d343ce9d935cfd\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Fratoi\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\51c5cbfba1ff0e7016b05fad5f0fc28f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Fratoi\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\0c910e2d2ebce3ce3a53934466bddd4d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Fratoi\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\5cf49867c914a9951960846196630ab9\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:28.0.0] C:\Users\Fratoi\.gradle\caches\transforms-1\files-1.1\transition-28.0.0.aar\787df1bd7c45654d9d678623f95b8ea1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Fratoi\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\b7abe0a7b1a90f6b3670f2db64754bb5\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Fratoi\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\4f317bb20a43e3a208adb1eef238370b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Fratoi\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\97fbe480497a1376961751e53a3ef5a2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Fratoi\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\e68a19593f302bfe573c4e066526980d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Fratoi\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\05501b2be24e33ea6ccb39ed4b5d3826\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Fratoi\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\be1cc886a9fdcbaca468e5728e7f5c91\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Fratoi\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\a2401fcbdb2afb4a6876f12b2242514b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Fratoi\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\d48684afbc727d53312d5629b28baa58\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Fratoi\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\26ab5065717c1c21ce0b41cb14a3dc04\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Fratoi\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\416c449b637732d1e3ef53e2d4642310\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Fratoi\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\1f95650bb29562a9c6f67902e97c5d57\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\Fratoi\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0.aar\df13c07fcc0be3b5d18f2995a3df426e\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Fratoi\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\9ec68e8b6f0273d143d4455e9c83e31a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Fratoi\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\7af1e0191dc4a2180c6e0066c12dc1ca\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Fratoi\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\af7b386a81ddc6bbcdadc54bff9381a5\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\Fratoi\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\2a9791cd4cffa9efff2cffed38e39d5b\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Fratoi\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\56891ac747827e810bf985b6147a1321\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Fratoi\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\4049bf5f0758743159caeaf913f3b36d\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Fratoi\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\3ee4b47b49dce3abd20d32865933b33a\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Fratoi\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\afd85a1c2cd6dbcc67baecea7277b490\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Fratoi\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\af4a325516ab9d0bc8f98f0baee6af2a\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\Fratoi\git\RedReaderIDL\src\main\AndroidManifest.xml:19:1-160:12
+INJECTED from C:\Users\Fratoi\git\RedReaderIDL\src\main\AndroidManifest.xml:19:1-160:12
+INJECTED from C:\Users\Fratoi\git\RedReaderIDL\src\main\AndroidManifest.xml:19:1-160:12
+	package
+		ADDED from C:\Users\Fratoi\git\RedReaderIDL\src\main\AndroidManifest.xml:20:11-48
+		INJECTED from C:\Users\Fratoi\git\RedReaderIDL\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Fratoi\git\RedReaderIDL\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from C:\Users\Fratoi\git\RedReaderIDL\src\main\AndroidManifest.xml:22:11-39
+		INJECTED from C:\Users\Fratoi\git\RedReaderIDL\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Fratoi\git\RedReaderIDL\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Fratoi\git\RedReaderIDL\src\main\AndroidManifest.xml:19:11-69
+	android:versionCode
+		ADDED from C:\Users\Fratoi\git\RedReaderIDL\src\main\AndroidManifest.xml:21:11-35
+		INJECTED from C:\Users\Fratoi\git\RedReaderIDL\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Fratoi\git\RedReaderIDL\src\main\AndroidManifest.xml
+	android:installLocation
+		ADDED from C:\Users\Fratoi\git\RedReaderIDL\src\main\AndroidManifest.xml:23:11-41
+uses-feature#0x00020000
+ADDED from C:\Users\Fratoi\git\RedReaderIDL\src\main\AndroidManifest.xml:25:5-78
+	android:glEsVersion
+		ADDED from C:\Users\Fratoi\git\RedReaderIDL\src\main\AndroidManifest.xml:25:19-51
+	android:required
+		ADDED from C:\Users\Fratoi\git\RedReaderIDL\src\main\AndroidManifest.xml:25:52-75
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\Fratoi\git\RedReaderIDL\src\main\AndroidManifest.xml:27:5-67
+	android:name
+		ADDED from C:\Users\Fratoi\git\RedReaderIDL\src\main\AndroidManifest.xml:27:22-64
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\Users\Fratoi\git\RedReaderIDL\src\main\AndroidManifest.xml:28:5-80
+	android:name
+		ADDED from C:\Users\Fratoi\git\RedReaderIDL\src\main\AndroidManifest.xml:28:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\Fratoi\git\RedReaderIDL\src\main\AndroidManifest.xml:29:5-81
+	android:name
+		ADDED from C:\Users\Fratoi\git\RedReaderIDL\src\main\AndroidManifest.xml:29:22-78
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\Fratoi\git\RedReaderIDL\src\main\AndroidManifest.xml:30:5-78
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.9.1] C:\Users\Fratoi\.gradle\caches\transforms-1\files-1.1\exoplayer-core-2.9.1.aar\2ff6c28f60d3fd8e5fda2a8da6bfa299\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.9.1] C:\Users\Fratoi\.gradle\caches\transforms-1\files-1.1\exoplayer-core-2.9.1.aar\2ff6c28f60d3fd8e5fda2a8da6bfa299\AndroidManifest.xml:24:5-79
+	android:name
+		ADDED from C:\Users\Fratoi\git\RedReaderIDL\src\main\AndroidManifest.xml:30:22-76
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from C:\Users\Fratoi\git\RedReaderIDL\src\main\AndroidManifest.xml:31:5-80
+	android:name
+		ADDED from C:\Users\Fratoi\git\RedReaderIDL\src\main\AndroidManifest.xml:31:22-78
+application
+ADDED from C:\Users\Fratoi\git\RedReaderIDL\src\main\AndroidManifest.xml:33:5-158:19
+MERGED from [com.android.support:design:28.0.0] C:\Users\Fratoi\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\a47759a973b125ee15297b7d79268839\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:28.0.0] C:\Users\Fratoi\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\a47759a973b125ee15297b7d79268839\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Fratoi\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\26ab5065717c1c21ce0b41cb14a3dc04\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Fratoi\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\26ab5065717c1c21ce0b41cb14a3dc04\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Fratoi\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\416c449b637732d1e3ef53e2d4642310\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Fratoi\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\416c449b637732d1e3ef53e2d4642310\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\Fratoi\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\26ab5065717c1c21ce0b41cb14a3dc04\AndroidManifest.xml:22:18-91
+	android:label
+		ADDED from C:\Users\Fratoi\git\RedReaderIDL\src\main\AndroidManifest.xml:35:18-50
+	android:hardwareAccelerated
+		ADDED from C:\Users\Fratoi\git\RedReaderIDL\src\main\AndroidManifest.xml:38:18-52
+	android:largeHeap
+		ADDED from C:\Users\Fratoi\git\RedReaderIDL\src\main\AndroidManifest.xml:37:18-42
+	android:icon
+		ADDED from C:\Users\Fratoi\git\RedReaderIDL\src\main\AndroidManifest.xml:34:18-45
+	android:allowBackup
+		ADDED from C:\Users\Fratoi\git\RedReaderIDL\src\main\AndroidManifest.xml:39:18-44
+	android:theme
+		ADDED from C:\Users\Fratoi\git\RedReaderIDL\src\main\AndroidManifest.xml:36:18-51
+	android:name
+		ADDED from C:\Users\Fratoi\git\RedReaderIDL\src\main\AndroidManifest.xml:33:18-70
+meta-data#android.max_aspect
+ADDED from C:\Users\Fratoi\git\RedReaderIDL\src\main\AndroidManifest.xml:40:3-70
+	android:value
+		ADDED from C:\Users\Fratoi\git\RedReaderIDL\src\main\AndroidManifest.xml:40:48-67
+	android:name
+		ADDED from C:\Users\Fratoi\git\RedReaderIDL\src\main\AndroidManifest.xml:40:14-47
+meta-data#com.lge.support.SPLIT_WINDOW
+ADDED from C:\Users\Fratoi\git\RedReaderIDL\src\main\AndroidManifest.xml:42:3-81
+	android:value
+		ADDED from C:\Users\Fratoi\git\RedReaderIDL\src\main\AndroidManifest.xml:42:58-78
+	android:name
+		ADDED from C:\Users\Fratoi\git\RedReaderIDL\src\main\AndroidManifest.xml:42:14-57
+activity#org.quantumbadger.redreader.activities.MainActivity
+ADDED from C:\Users\Fratoi\git\RedReaderIDL\src\main\AndroidManifest.xml:44:9-56:20
+	android:clearTaskOnLaunch
+		ADDED from C:\Users\Fratoi\git\RedReaderIDL\src\main\AndroidManifest.xml:46:19-52
+	android:configChanges
+		ADDED from C:\Users\Fratoi\git\RedReaderIDL\src\main\AndroidManifest.xml:45:19-80
+	android:alwaysRetainTaskState
+		ADDED from C:\Users\Fratoi\git\RedReaderIDL\src\main\AndroidManifest.xml:48:19-55
+	android:finishOnTaskLaunch
+		ADDED from C:\Users\Fratoi\git\RedReaderIDL\src\main\AndroidManifest.xml:47:19-53
+	android:name
+		ADDED from C:\Users\Fratoi\git\RedReaderIDL\src\main\AndroidManifest.xml:44:19-58
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER+category:name:android.intent.category.MULTIWINDOW_LAUNCHER
+ADDED from C:\Users\Fratoi\git\RedReaderIDL\src\main\AndroidManifest.xml:50:13-54:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Fratoi\git\RedReaderIDL\src\main\AndroidManifest.xml:51:17-69
+	android:name
+		ADDED from C:\Users\Fratoi\git\RedReaderIDL\src\main\AndroidManifest.xml:51:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Fratoi\git\RedReaderIDL\src\main\AndroidManifest.xml:52:17-77
+	android:name
+		ADDED from C:\Users\Fratoi\git\RedReaderIDL\src\main\AndroidManifest.xml:52:27-74
+category#android.intent.category.MULTIWINDOW_LAUNCHER
+ADDED from C:\Users\Fratoi\git\RedReaderIDL\src\main\AndroidManifest.xml:53:17-89
+	android:name
+		ADDED from C:\Users\Fratoi\git\RedReaderIDL\src\main\AndroidManifest.xml:53:27-86
+activity#org.quantumbadger.redreader.settings.SettingsActivity
+ADDED from C:\Users\Fratoi\git\RedReaderIDL\src\main\AndroidManifest.xml:58:9-59:83
+	android:configChanges
+		ADDED from C:\Users\Fratoi\git\RedReaderIDL\src\main\AndroidManifest.xml:59:19-80
+	android:name
+		ADDED from C:\Users\Fratoi\git\RedReaderIDL\src\main\AndroidManifest.xml:58:19-60
+activity#org.quantumbadger.redreader.activities.LinkDispatchActivity
+ADDED from C:\Users\Fratoi\git\RedReaderIDL\src\main\AndroidManifest.xml:61:9-73:20
+	android:name
+		ADDED from C:\Users\Fratoi\git\RedReaderIDL\src\main\AndroidManifest.xml:61:19-66
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:*.reddit.com+data:host:*.reddit.com+data:host:redd.it+data:host:redd.it+data:host:reddit.com+data:host:reddit.com+data:scheme:http+data:scheme:http+data:scheme:http+data:scheme:https+data:scheme:https+data:scheme:https
+ADDED from C:\Users\Fratoi\git\RedReaderIDL\src\main\AndroidManifest.xml:62:13-72:29
+action#android.intent.action.VIEW
+ADDED from C:\Users\Fratoi\git\RedReaderIDL\src\main\AndroidManifest.xml:63:17-69
+	android:name
+		ADDED from C:\Users\Fratoi\git\RedReaderIDL\src\main\AndroidManifest.xml:63:25-66
+category#android.intent.category.DEFAULT
+ADDED from C:\Users\Fratoi\git\RedReaderIDL\src\main\AndroidManifest.xml:64:17-76
+	android:name
+		ADDED from C:\Users\Fratoi\git\RedReaderIDL\src\main\AndroidManifest.xml:64:27-73
+category#android.intent.category.BROWSABLE
+ADDED from C:\Users\Fratoi\git\RedReaderIDL\src\main\AndroidManifest.xml:65:17-78
+	android:name
+		ADDED from C:\Users\Fratoi\git\RedReaderIDL\src\main\AndroidManifest.xml:65:27-75
+data
+ADDED from C:\Users\Fratoi\git\RedReaderIDL\src\main\AndroidManifest.xml:66:17-75
+	android:host
+		ADDED from C:\Users\Fratoi\git\RedReaderIDL\src\main\AndroidManifest.xml:66:45-72
+	android:scheme
+		ADDED from C:\Users\Fratoi\git\RedReaderIDL\src\main\AndroidManifest.xml:66:23-44
+	android:mimeType
+		ADDED from C:\Users\Fratoi\git\RedReaderIDL\src\main\AndroidManifest.xml:121:23-52
+activity#org.quantumbadger.redreader.activities.PostListingActivity
+ADDED from C:\Users\Fratoi\git\RedReaderIDL\src\main\AndroidManifest.xml:75:9-76:71
+	android:configChanges
+		ADDED from C:\Users\Fratoi\git\RedReaderIDL\src\main\AndroidManifest.xml:76:7-68
+	android:name
+		ADDED from C:\Users\Fratoi\git\RedReaderIDL\src\main\AndroidManifest.xml:75:19-65
+activity#org.quantumbadger.redreader.activities.CommentListingActivity
+ADDED from C:\Users\Fratoi\git\RedReaderIDL\src\main\AndroidManifest.xml:78:9-79:71
+	android:configChanges
+		ADDED from C:\Users\Fratoi\git\RedReaderIDL\src\main\AndroidManifest.xml:79:7-68
+	android:name
+		ADDED from C:\Users\Fratoi\git\RedReaderIDL\src\main\AndroidManifest.xml:78:19-68
+activity#org.quantumbadger.redreader.activities.ChangelogActivity
+ADDED from C:\Users\Fratoi\git\RedReaderIDL\src\main\AndroidManifest.xml:81:3-82:71
+	android:configChanges
+		ADDED from C:\Users\Fratoi\git\RedReaderIDL\src\main\AndroidManifest.xml:82:7-68
+	android:name
+		ADDED from C:\Users\Fratoi\git\RedReaderIDL\src\main\AndroidManifest.xml:81:13-57
+activity#org.quantumbadger.redreader.activities.ImgurUploadActivity
+ADDED from C:\Users\Fratoi\git\RedReaderIDL\src\main\AndroidManifest.xml:84:3-85:71
+	android:configChanges
+		ADDED from C:\Users\Fratoi\git\RedReaderIDL\src\main\AndroidManifest.xml:85:7-68
+	android:name
+		ADDED from C:\Users\Fratoi\git\RedReaderIDL\src\main\AndroidManifest.xml:84:13-59
+activity#org.quantumbadger.redreader.activities.MoreCommentsListingActivity
+ADDED from C:\Users\Fratoi\git\RedReaderIDL\src\main\AndroidManifest.xml:87:3-88:71
+	android:configChanges
+		ADDED from C:\Users\Fratoi\git\RedReaderIDL\src\main\AndroidManifest.xml:88:7-68
+	android:name
+		ADDED from C:\Users\Fratoi\git\RedReaderIDL\src\main\AndroidManifest.xml:87:13-67
+activity#org.quantumbadger.redreader.activities.WebViewActivity
+ADDED from C:\Users\Fratoi\git\RedReaderIDL\src\main\AndroidManifest.xml:90:9-92:51
+	android:configChanges
+		ADDED from C:\Users\Fratoi\git\RedReaderIDL\src\main\AndroidManifest.xml:91:19-80
+	android:theme
+		ADDED from C:\Users\Fratoi\git\RedReaderIDL\src\main\AndroidManifest.xml:92:19-49
+	android:name
+		ADDED from C:\Users\Fratoi\git\RedReaderIDL\src\main\AndroidManifest.xml:90:19-61
+activity#org.quantumbadger.redreader.activities.HtmlViewActivity
+ADDED from C:\Users\Fratoi\git\RedReaderIDL\src\main\AndroidManifest.xml:94:9-95:82
+	android:configChanges
+		ADDED from C:\Users\Fratoi\git\RedReaderIDL\src\main\AndroidManifest.xml:95:19-80
+	android:name
+		ADDED from C:\Users\Fratoi\git\RedReaderIDL\src\main\AndroidManifest.xml:94:19-62
+activity#org.quantumbadger.redreader.activities.OAuthLoginActivity
+ADDED from C:\Users\Fratoi\git\RedReaderIDL\src\main\AndroidManifest.xml:97:9-98:82
+	android:configChanges
+		ADDED from C:\Users\Fratoi\git\RedReaderIDL\src\main\AndroidManifest.xml:98:19-80
+	android:name
+		ADDED from C:\Users\Fratoi\git\RedReaderIDL\src\main\AndroidManifest.xml:97:19-64
+activity#org.quantumbadger.redreader.activities.AlbumListingActivity
+ADDED from C:\Users\Fratoi\git\RedReaderIDL\src\main\AndroidManifest.xml:100:9-101:82
+	android:configChanges
+		ADDED from C:\Users\Fratoi\git\RedReaderIDL\src\main\AndroidManifest.xml:101:19-80
+	android:name
+		ADDED from C:\Users\Fratoi\git\RedReaderIDL\src\main\AndroidManifest.xml:100:19-66
+activity#org.quantumbadger.redreader.activities.ImageViewActivity
+ADDED from C:\Users\Fratoi\git\RedReaderIDL\src\main\AndroidManifest.xml:103:9-105:51
+	android:configChanges
+		ADDED from C:\Users\Fratoi\git\RedReaderIDL\src\main\AndroidManifest.xml:104:19-80
+	android:theme
+		ADDED from C:\Users\Fratoi\git\RedReaderIDL\src\main\AndroidManifest.xml:105:19-49
+	android:name
+		ADDED from C:\Users\Fratoi\git\RedReaderIDL\src\main\AndroidManifest.xml:103:19-63
+activity#org.quantumbadger.redreader.activities.CommentReplyActivity
+ADDED from C:\Users\Fratoi\git\RedReaderIDL\src\main\AndroidManifest.xml:107:9-108:82
+	android:configChanges
+		ADDED from C:\Users\Fratoi\git\RedReaderIDL\src\main\AndroidManifest.xml:108:19-80
+	android:name
+		ADDED from C:\Users\Fratoi\git\RedReaderIDL\src\main\AndroidManifest.xml:107:19-66
+activity#org.quantumbadger.redreader.activities.CommentEditActivity
+ADDED from C:\Users\Fratoi\git\RedReaderIDL\src\main\AndroidManifest.xml:110:9-111:82
+	android:configChanges
+		ADDED from C:\Users\Fratoi\git\RedReaderIDL\src\main\AndroidManifest.xml:111:19-80
+	android:name
+		ADDED from C:\Users\Fratoi\git\RedReaderIDL\src\main\AndroidManifest.xml:110:19-65
+activity#org.quantumbadger.redreader.activities.PMSendActivity
+ADDED from C:\Users\Fratoi\git\RedReaderIDL\src\main\AndroidManifest.xml:113:3-114:70
+	android:configChanges
+		ADDED from C:\Users\Fratoi\git\RedReaderIDL\src\main\AndroidManifest.xml:114:7-68
+	android:name
+		ADDED from C:\Users\Fratoi\git\RedReaderIDL\src\main\AndroidManifest.xml:113:13-54
+activity#org.quantumbadger.redreader.activities.PostSubmitActivity
+ADDED from C:\Users\Fratoi\git\RedReaderIDL\src\main\AndroidManifest.xml:116:9-123:20
+	android:configChanges
+		ADDED from C:\Users\Fratoi\git\RedReaderIDL\src\main\AndroidManifest.xml:117:19-80
+	android:name
+		ADDED from C:\Users\Fratoi\git\RedReaderIDL\src\main\AndroidManifest.xml:116:19-64
+intent-filter#action:name:android.intent.action.SEND+category:name:android.intent.category.DEFAULT+data:mimeType:text/plain
+ADDED from C:\Users\Fratoi\git\RedReaderIDL\src\main\AndroidManifest.xml:118:13-122:29
+action#android.intent.action.SEND
+ADDED from C:\Users\Fratoi\git\RedReaderIDL\src\main\AndroidManifest.xml:119:17-69
+	android:name
+		ADDED from C:\Users\Fratoi\git\RedReaderIDL\src\main\AndroidManifest.xml:119:25-66
+activity#org.quantumbadger.redreader.activities.BugReportActivity
+ADDED from C:\Users\Fratoi\git\RedReaderIDL\src\main\AndroidManifest.xml:125:9-127:56
+	android:launchMode
+		ADDED from C:\Users\Fratoi\git\RedReaderIDL\src\main\AndroidManifest.xml:127:19-54
+	android:configChanges
+		ADDED from C:\Users\Fratoi\git\RedReaderIDL\src\main\AndroidManifest.xml:126:19-80
+	android:name
+		ADDED from C:\Users\Fratoi\git\RedReaderIDL\src\main\AndroidManifest.xml:125:19-63
+activity#org.quantumbadger.redreader.activities.InboxListingActivity
+ADDED from C:\Users\Fratoi\git\RedReaderIDL\src\main\AndroidManifest.xml:129:9-130:82
+	android:configChanges
+		ADDED from C:\Users\Fratoi\git\RedReaderIDL\src\main\AndroidManifest.xml:130:19-80
+	android:name
+		ADDED from C:\Users\Fratoi\git\RedReaderIDL\src\main\AndroidManifest.xml:129:19-66
+receiver#org.quantumbadger.redreader.receivers.NewMessageChecker
+ADDED from C:\Users\Fratoi\git\RedReaderIDL\src\main\AndroidManifest.xml:132:9-64
+	android:name
+		ADDED from C:\Users\Fratoi\git\RedReaderIDL\src\main\AndroidManifest.xml:132:19-62
+receiver#org.quantumbadger.redreader.receivers.RegularCachePruner
+ADDED from C:\Users\Fratoi\git\RedReaderIDL\src\main\AndroidManifest.xml:133:9-65
+	android:name
+		ADDED from C:\Users\Fratoi\git\RedReaderIDL\src\main\AndroidManifest.xml:133:19-63
+receiver#org.quantumbadger.redreader.receivers.BootReceiver
+ADDED from C:\Users\Fratoi\git\RedReaderIDL\src\main\AndroidManifest.xml:134:9-138:20
+	android:name
+		ADDED from C:\Users\Fratoi\git\RedReaderIDL\src\main\AndroidManifest.xml:134:19-57
+intent-filter#action:name:android.intent.action.BOOT_COMPLETED
+ADDED from C:\Users\Fratoi\git\RedReaderIDL\src\main\AndroidManifest.xml:135:13-137:29
+action#android.intent.action.BOOT_COMPLETED
+ADDED from C:\Users\Fratoi\git\RedReaderIDL\src\main\AndroidManifest.xml:136:17-78
+	android:name
+		ADDED from C:\Users\Fratoi\git\RedReaderIDL\src\main\AndroidManifest.xml:136:25-76
+uses-library#com.sec.android.app.multiwindow
+ADDED from C:\Users\Fratoi\git\RedReaderIDL\src\main\AndroidManifest.xml:140:9-97
+	android:required
+		ADDED from C:\Users\Fratoi\git\RedReaderIDL\src\main\AndroidManifest.xml:140:23-47
+	android:name
+		ADDED from C:\Users\Fratoi\git\RedReaderIDL\src\main\AndroidManifest.xml:140:48-94
+meta-data#com.sec.android.support.multiwindow
+ADDED from C:\Users\Fratoi\git\RedReaderIDL\src\main\AndroidManifest.xml:141:9-94
+	android:value
+		ADDED from C:\Users\Fratoi\git\RedReaderIDL\src\main\AndroidManifest.xml:141:71-91
+	android:name
+		ADDED from C:\Users\Fratoi\git\RedReaderIDL\src\main\AndroidManifest.xml:141:20-70
+meta-data#com.sec.android.multiwindow.DEFAULT_SIZE_W
+ADDED from C:\Users\Fratoi\git\RedReaderIDL\src\main\AndroidManifest.xml:143:9-124
+	android:resource
+		ADDED from C:\Users\Fratoi\git\RedReaderIDL\src\main\AndroidManifest.xml:143:78-121
+	android:name
+		ADDED from C:\Users\Fratoi\git\RedReaderIDL\src\main\AndroidManifest.xml:143:20-77
+meta-data#com.sec.android.multiwindow.DEFAULT_SIZE_H
+ADDED from C:\Users\Fratoi\git\RedReaderIDL\src\main\AndroidManifest.xml:144:9-124
+	android:resource
+		ADDED from C:\Users\Fratoi\git\RedReaderIDL\src\main\AndroidManifest.xml:144:78-121
+	android:name
+		ADDED from C:\Users\Fratoi\git\RedReaderIDL\src\main\AndroidManifest.xml:144:20-77
+meta-data#com.sec.android.multiwindow.MINIMUM_SIZE_W
+ADDED from C:\Users\Fratoi\git\RedReaderIDL\src\main\AndroidManifest.xml:145:9-124
+	android:resource
+		ADDED from C:\Users\Fratoi\git\RedReaderIDL\src\main\AndroidManifest.xml:145:78-121
+	android:name
+		ADDED from C:\Users\Fratoi\git\RedReaderIDL\src\main\AndroidManifest.xml:145:20-77
+meta-data#com.sec.android.multiwindow.MINIMUM_SIZE_H
+ADDED from C:\Users\Fratoi\git\RedReaderIDL\src\main\AndroidManifest.xml:146:9-124
+	android:resource
+		ADDED from C:\Users\Fratoi\git\RedReaderIDL\src\main\AndroidManifest.xml:146:78-121
+	android:name
+		ADDED from C:\Users\Fratoi\git\RedReaderIDL\src\main\AndroidManifest.xml:146:20-77
+provider#android.support.v4.content.FileProvider
+ADDED from C:\Users\Fratoi\git\RedReaderIDL\src\main\AndroidManifest.xml:148:3-157:14
+	android:grantUriPermissions
+		ADDED from C:\Users\Fratoi\git\RedReaderIDL\src\main\AndroidManifest.xml:152:5-39
+	android:authorities
+		ADDED from C:\Users\Fratoi\git\RedReaderIDL\src\main\AndroidManifest.xml:150:5-63
+	android:exported
+		ADDED from C:\Users\Fratoi\git\RedReaderIDL\src\main\AndroidManifest.xml:151:5-29
+	android:name
+		ADDED from C:\Users\Fratoi\git\RedReaderIDL\src\main\AndroidManifest.xml:149:5-59
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from C:\Users\Fratoi\git\RedReaderIDL\src\main\AndroidManifest.xml:153:4-156:16
+	android:resource
+		ADDED from C:\Users\Fratoi\git\RedReaderIDL\src\main\AndroidManifest.xml:155:6-40
+	android:name
+		ADDED from C:\Users\Fratoi\git\RedReaderIDL\src\main\AndroidManifest.xml:154:6-56
+uses-sdk
+INJECTED from C:\Users\Fratoi\git\RedReaderIDL\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Fratoi\git\RedReaderIDL\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Fratoi\git\RedReaderIDL\src\main\AndroidManifest.xml
+MERGED from [com.android.support:design:28.0.0] C:\Users\Fratoi\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\a47759a973b125ee15297b7d79268839\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0] C:\Users\Fratoi\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\a47759a973b125ee15297b7d79268839\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Fratoi\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\a952751cbdb80ce5d84048d535bb32ff\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Fratoi\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\a952751cbdb80ce5d84048d535bb32ff\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\Fratoi\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0.aar\59c66d662bdbad86f9ccfea36b634df3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\Fratoi\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0.aar\59c66d662bdbad86f9ccfea36b634df3\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.exoplayer:exoplayer-ui:2.9.1] C:\Users\Fratoi\.gradle\caches\transforms-1\files-1.1\exoplayer-ui-2.9.1.aar\011e4ae39629b57f61f57d9d191eef38\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-ui:2.9.1] C:\Users\Fratoi\.gradle\caches\transforms-1\files-1.1\exoplayer-ui-2.9.1.aar\011e4ae39629b57f61f57d9d191eef38\AndroidManifest.xml:20:5-22:41
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\Fratoi\.gradle\caches\transforms-1\files-1.1\support-media-compat-28.0.0.aar\4cfdb0b137c49c876cda17ca2e423a60\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\Fratoi\.gradle\caches\transforms-1\files-1.1\support-media-compat-28.0.0.aar\4cfdb0b137c49c876cda17ca2e423a60\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.9.1] C:\Users\Fratoi\.gradle\caches\transforms-1\files-1.1\exoplayer-core-2.9.1.aar\2ff6c28f60d3fd8e5fda2a8da6bfa299\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.9.1] C:\Users\Fratoi\.gradle\caches\transforms-1\files-1.1\exoplayer-core-2.9.1.aar\2ff6c28f60d3fd8e5fda2a8da6bfa299\AndroidManifest.xml:20:5-22:41
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Fratoi\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\59e8619332231b54539d88d54543abd4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Fratoi\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\59e8619332231b54539d88d54543abd4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Fratoi\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\997697c3c2784dabf4d343ce9d935cfd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Fratoi\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\997697c3c2784dabf4d343ce9d935cfd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Fratoi\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\51c5cbfba1ff0e7016b05fad5f0fc28f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Fratoi\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\51c5cbfba1ff0e7016b05fad5f0fc28f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Fratoi\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\0c910e2d2ebce3ce3a53934466bddd4d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Fratoi\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\0c910e2d2ebce3ce3a53934466bddd4d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Fratoi\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\5cf49867c914a9951960846196630ab9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Fratoi\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\5cf49867c914a9951960846196630ab9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Users\Fratoi\.gradle\caches\transforms-1\files-1.1\transition-28.0.0.aar\787df1bd7c45654d9d678623f95b8ea1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Users\Fratoi\.gradle\caches\transforms-1\files-1.1\transition-28.0.0.aar\787df1bd7c45654d9d678623f95b8ea1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Fratoi\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\b7abe0a7b1a90f6b3670f2db64754bb5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Fratoi\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\b7abe0a7b1a90f6b3670f2db64754bb5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Fratoi\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\4f317bb20a43e3a208adb1eef238370b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Fratoi\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\4f317bb20a43e3a208adb1eef238370b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Fratoi\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\97fbe480497a1376961751e53a3ef5a2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Fratoi\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\97fbe480497a1376961751e53a3ef5a2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Fratoi\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\e68a19593f302bfe573c4e066526980d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Fratoi\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\e68a19593f302bfe573c4e066526980d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Fratoi\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\05501b2be24e33ea6ccb39ed4b5d3826\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Fratoi\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\05501b2be24e33ea6ccb39ed4b5d3826\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Fratoi\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\be1cc886a9fdcbaca468e5728e7f5c91\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Fratoi\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\be1cc886a9fdcbaca468e5728e7f5c91\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Fratoi\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\a2401fcbdb2afb4a6876f12b2242514b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Fratoi\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\a2401fcbdb2afb4a6876f12b2242514b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Fratoi\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\d48684afbc727d53312d5629b28baa58\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Fratoi\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\d48684afbc727d53312d5629b28baa58\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Fratoi\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\26ab5065717c1c21ce0b41cb14a3dc04\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Fratoi\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\26ab5065717c1c21ce0b41cb14a3dc04\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Fratoi\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\416c449b637732d1e3ef53e2d4642310\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Fratoi\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\416c449b637732d1e3ef53e2d4642310\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Fratoi\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\1f95650bb29562a9c6f67902e97c5d57\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Fratoi\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\1f95650bb29562a9c6f67902e97c5d57\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\Fratoi\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0.aar\df13c07fcc0be3b5d18f2995a3df426e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\Fratoi\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0.aar\df13c07fcc0be3b5d18f2995a3df426e\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Fratoi\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\9ec68e8b6f0273d143d4455e9c83e31a\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Fratoi\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\9ec68e8b6f0273d143d4455e9c83e31a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Fratoi\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\7af1e0191dc4a2180c6e0066c12dc1ca\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Fratoi\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\7af1e0191dc4a2180c6e0066c12dc1ca\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Fratoi\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\af7b386a81ddc6bbcdadc54bff9381a5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Fratoi\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\af7b386a81ddc6bbcdadc54bff9381a5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\Fratoi\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\2a9791cd4cffa9efff2cffed38e39d5b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\Fratoi\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\2a9791cd4cffa9efff2cffed38e39d5b\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Fratoi\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\56891ac747827e810bf985b6147a1321\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Fratoi\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\56891ac747827e810bf985b6147a1321\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Fratoi\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\4049bf5f0758743159caeaf913f3b36d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Fratoi\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\4049bf5f0758743159caeaf913f3b36d\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Fratoi\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\3ee4b47b49dce3abd20d32865933b33a\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Fratoi\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\3ee4b47b49dce3abd20d32865933b33a\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Fratoi\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\afd85a1c2cd6dbcc67baecea7277b490\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Fratoi\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\afd85a1c2cd6dbcc67baecea7277b490\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Fratoi\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\af4a325516ab9d0bc8f98f0baee6af2a\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Fratoi\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\af4a325516ab9d0bc8f98f0baee6af2a\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\Fratoi\git\RedReaderIDL\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Fratoi\git\RedReaderIDL\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\Fratoi\git\RedReaderIDL\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Fratoi\git\RedReaderIDL\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Fratoi\git\RedReaderIDL\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Fratoi\git\RedReaderIDL\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Fratoi\git\RedReaderIDL\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Fratoi\git\RedReaderIDL\src\main\AndroidManifest.xml
